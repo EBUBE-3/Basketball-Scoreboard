@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: #3A506B;
+    font-family: 'cursed Timer ULil', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: white;
+    background: #1C3144;
+    height: 600px;
+    max-width: 1300px;
+    margin: 0 auto;
+    border-radius: 40px;
+    border: 10px solid white;
+}
+h1 {
+    font-size: bold;
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    padding-top: 50px;
+}
+.board {
+    background: #171123;
+    color: red;
+    width: 300px;
+    height: 200px;
+    font-size: 90px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.btn {
+    font-size: 15px;
+    height: 45px;
+    width: 45px;
+    font-family: inherit;
+    color: #9AABD8;
+    background: inherit;
+    border: 2px solid #9AABD8;
+    border-radius: 6px;
+    margin: 50px 10px;
+}
+.btn:hover {
+    cursor: pointer;
+}
