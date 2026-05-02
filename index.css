@@ -3,7 +3,6 @@ body {
     background-color: #3A506B;
     font-family: 'cursed Timer ULil', sans-serif;
 }
-
 .container {
     display: flex;
     justify-content: space-around;
